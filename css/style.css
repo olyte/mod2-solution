@@ -1,0 +1,49 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+h1{
+}
+
+
+h2{
+position: absolute;
+top: 0px;
+right: 0px;
+display: inline-box;
+}
+
+
+
+section{
+position: relative;
+border: 1px solid #000;
+width: 33%;
+}
+
+
+
+
+@media (){
+
+section{
+width: 50%;
+}
+
+section#s3{
+width: 100%;
+}
+
+}
+
+
+@media (){
+
+section{
+width: 100%;
+}
+
+}
